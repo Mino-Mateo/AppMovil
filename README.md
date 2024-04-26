@@ -1,2 +1,2 @@
-# AppWeb
-Todas las clases de aplicaciones web junto, mientras no se incluirá el apk
+# AppMovil
+Todas las clases de aplicaciones moviles junto, mientras no se incluirá el apk

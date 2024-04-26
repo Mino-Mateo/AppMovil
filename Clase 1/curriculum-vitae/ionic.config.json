@@ -1,0 +1,7 @@
+{
+  "name": "curriculum-vitae",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

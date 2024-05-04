@@ -15,4 +15,4 @@ describe('Tab1Page', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-});
+}); 
